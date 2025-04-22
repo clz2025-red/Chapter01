@@ -33,13 +33,13 @@ public class Ex02 {
 		
 		
 		int dan = sc.nextInt();
-		int i=1;
+		int i=1; //초기값
 		
-		while(i<=9) {
+		while(i<=9) { //조건식
 		
 			System.out.println(dan +"*"+ i + "=" + dan*i );
 			
-			i++;
+			i++; //증감식
 			
 		}
 
