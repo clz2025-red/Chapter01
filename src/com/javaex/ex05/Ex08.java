@@ -12,7 +12,7 @@ public class Ex08 {
 		
 		//배열B
 		int[] arrB = new int[3];
-		arrB[0] = 3;
+		arrB[0] = 3;     // Ex10 번은 이부분을 for문으로 복사
 		arrB[1] = 6;
 		arrB[2] = 7;
 		
